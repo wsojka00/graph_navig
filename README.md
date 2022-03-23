@@ -1,5 +1,6 @@
-# Learning Representation of the Environment Through a Complex Graph Exploration 
-
+<p align="center">
+  <b>Learning Representation of the Environment Through a Complex Graph Exploration</b>
+</p>
 
 
 ## Abstract
