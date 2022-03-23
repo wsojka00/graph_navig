@@ -1,8 +1,15 @@
 <p align="center">
-    Learning Representation of the Environment Through a Complex Graph Exploration
+    **Learning Representation of the Environment Through a Complex Graph Exploration**
+    
+    Bachelor Thesis in Cognitive Science
+    Faculty of Philosophy and Social Sciences
+    Nicolaus Copernicus University
+    Toruń, Poland
+
+    
 </p>
 
-Open-source code repository of my Bachelor Thesis oriented around training reinforcement learning agents to solve the maze, and represent learning process as a learning of graph-based structure of explored environment.
+------------------------------------------------------------
 
 ## Abstract
 
@@ -10,6 +17,5 @@ Open-source code repository of my Bachelor Thesis oriented around training reinf
 
   In the paper, a model of reinforcement learning algorithm explores space in a grid-maze environment within its confusing structure consisting of complex branching with choices of path and direction guided from entrance to some goal. It is hypothesized that through such complex environment navigation, an agent similar to humans, creates internal graph-based representation of space with additional metric information in order to be able to perform flexible behavior patterns. Such a model that would use both cognitive map and graph framework may provide a fundamental understanding of mechanisms underlying generation of representations of space (Peer et al., 2021). Such parallel learning could underlie human ability to conceptualize, represent world structure and navigate in both spatial and non-spatial tasks.
   
-  ----------------------------------------
   
   ## Folders
