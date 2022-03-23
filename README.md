@@ -1,13 +1,11 @@
-<p align="center">
-    **Learning Representation of the Environment Through a Complex Graph Exploration**
-    
-    Bachelor Thesis in Cognitive Science
-    Faculty of Philosophy and Social Sciences
-    Nicolaus Copernicus University
-    Toruń, Poland
+<center>**Learning Representation of the Environment Through a Complex Graph Exploration**</center>
 
-    
-</p>
+
+ Bachelor Thesis in Cognitive Science
+ Faculty of Philosophy and Social Sciences
+ Nicolaus Copernicus University
+ Toruń, Poland
+
 
 ------------------------------------------------------------
 
