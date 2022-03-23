@@ -1,8 +1,8 @@
 <p align="center">
-  <b>Learning Representation of the Environment Through a Complex Graph Exploration</b>
-  Bachelor Thesis in Cognitive Science
-  Faculty of Philosophy and Social Sciences
-  Nicolaus Copernicus University
+  <b>Learning Representation of the Environment Through a Complex Graph Exploration</b><br>
+  Bachelor Thesis in Cognitive Science <br>
+  Faculty of Philosophy and Social Sciences <br>
+  Nicolaus Copernicus University <br>
 </p>
 
 
