@@ -24,6 +24,7 @@
 - maze with possible configurations of a 2D grid in .txt file
 - simulations ran on specific maze together with the simulations recordinds
 - tests consist of code used to practice different libraries 
+- paper 
 
 
  ##### Pipeline
