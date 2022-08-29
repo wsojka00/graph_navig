@@ -26,9 +26,7 @@ Humans and animals succeed in searching through various complex environments. Ba
 
  ##### Pipeline
  
- tba
+**01_create_maze**: how to create various mazes using numpy or loaded mazes from txt files. See examples in folder [graph_navigation/mazes/src](https://github.com/wsojka00/graph_navigation/tree/main/mazes/src).
+**02_algorithm_run**: apply defined solvers to various mazes. See examples in folder [graph_navigation/algorithms](https://github.com/wsojka00/graph_navigation/tree/main/algorithms).
 
- 
- ##### Notebooks
- 
- tba
+ ##### Resources
