@@ -3,7 +3,8 @@
 </p>
 
 <p align="center">
-  Bachelor Thesis in Cognitive Science <br>
+  Bachelor Thesis <br>
+  Cognitive Science <br>
   Faculty of Philosophy and Social Sciences <br>
   Nicolaus Copernicus University <br>
 </p>
@@ -26,8 +27,8 @@ Humans and animals succeed in searching through various complex environments. Ba
 
  ##### Pipeline
  
-**01_create_maze**: how to create various mazes using numpy or loaded mazes from txt files. See examples in folder [graph_navigation/mazes/src](https://github.com/wsojka00/graph_navigation/tree/main/mazes/src).
+<i> 01_create_maze</i>: how to create various mazes using numpy or loaded mazes from txt files. See examples in folder [graph_navigation/mazes/src](https://github.com/wsojka00/graph_navigation/tree/main/mazes/src).
 
-**02_algorithm_run**: apply defined solvers to various mazes. See examples in folder [graph_navigation/algorithms](https://github.com/wsojka00/graph_navigation/tree/main/algorithms).
+<i> 02_algorithm_run</i>: apply defined solvers to various mazes. See examples in folder [graph_navigation/algorithms](https://github.com/wsojka00/graph_navigation/tree/main/algorithms).
 
  ##### Resources
