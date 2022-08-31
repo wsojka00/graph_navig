@@ -22,7 +22,7 @@ Humans and animals succeed in searching through various complex environments. Ba
 - <i> mazes </i> configurations of a 2D grid stored in .txt file
 - <i> simulations </i> ran on given maze together with the simulations recordinds
 - <i> tests </i> consist of code used to practice different libraries 
-- <i> paper </i> 
+- <i> thesis </i> 
 
 
  ##### Pipeline
