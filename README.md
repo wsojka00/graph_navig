@@ -32,3 +32,5 @@ Humans and animals succeed in searching through various complex environments. Ba
 <i> 02_algorithm_run</i>: apply defined solvers to various mazes. See examples in folder [graph_navigation/algorithms](https://github.com/wsojka00/graph_navigation/tree/main/algorithms).
 
  ##### Resources
+ 
+Big thanks to Xingdong Zuo for creating [mazelab](https://github.com/zuoxingdong/mazelab) framework that speeds up the process of starting with the task of putting an agent in the maze in which it has to navigate. Besides, I would like to strongly recommend acknowledge all interested people to check [neuronav](https://github.com/awjuliani/neuro-nav) created for the purpose of standardization of spatial navigation tasks in various environments using multiple RL algorithms from recent papers. 
